@@ -1,5 +1,6 @@
 .vscode/
 
+.gitingore
 .pytest_cache/
 __pycache__/
 manhattan6x6/__pycache__/
